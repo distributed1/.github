@@ -8,5 +8,6 @@ Our mission is to help people find and share cultural and intelectual resources 
 
 | term           | description                                                                   |
 |----------------|-------------------------------------------------------------------------------|
-| Recommendation | The different resources that our users share and what to find in the platform |
-| Directory      | The directory contains all the list of recommendations shared by the users    |
+| Content        | The different resources that our users share and what to find in the platform |
+| Recommendation | A score that a user assigns to a specific content                             |
+| Catalog        | All the content published in the platform                                     |
