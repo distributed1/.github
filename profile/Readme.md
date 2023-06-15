@@ -18,4 +18,4 @@ LAB000-[company]-[main challenge (optional)]
 
 CoolRecom.localhost is a website for sharing recommendations about books, tv series, films, etc.
 
-- [ ] todo: create and link the company documentation with a glossary, personas, and other relevant information
+[More details and glossary](https://github.com/distributed1/.github/blob/main/company/coolrecom.md)
